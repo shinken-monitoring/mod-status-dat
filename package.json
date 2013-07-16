@@ -1,0 +1,25 @@
+{
+  "name": "status-dat",
+  "types": ["module"],
+  "version": "1.4",
+  "homepage": "http://github.com/shinken-monitoring/mod-status-dat",
+  "author": "Jean Gabès",
+  "description": "Export data to a flat file compatible with Nagios CGI",
+  "contributors": [
+    {
+      "name": "Jean Gabès",
+      "email": "naparuba@gmail.com"
+    }
+  ],
+  "repository": "https://github.com/shinken-monitoring/mod-status-dat",
+  "keywords": [
+    "module",
+    "broker",
+    "nagios",
+    "cgi"
+  ],
+  "dependencies": {
+    "shinken": ">=1.4"
+  },
+  "license": "AGPL"
+}
